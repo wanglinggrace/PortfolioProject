@@ -173,9 +173,6 @@ Results:
 
 ## 7. Repository Structure
 
-(Adjust to match your actual file names.)
-
-```text  
 .  
 ├── data/  
 │   ├── eRank-Top Sellers.xlsx  
